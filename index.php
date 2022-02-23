@@ -14,7 +14,7 @@
 </head>
 <body>
 <h2>AJAX Pet Adoption Agency</h2>
-<p>Make some choices, and reveal your pet!</p>
+<p>Make some choices, and reveal your pet!!</p>
 <div id="output">
 <form id="myForm" action="" method="get">
 
